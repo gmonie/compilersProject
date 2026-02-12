@@ -1,0 +1,40 @@
+# Archivos objeto
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos compilados
+*.out
+*.app
+
+# Directorios de compilación
+/build/
+/bin/
+/dist/
+/target/
+
+# Archivos de backup
+*~
+*.swp
+*.swo
+*.bak
+
+# Archivos de proyecto (IDE)
+.vscode/
+.idea/
+*.project
+*.classpath
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+.desktop.ini
+
+# Logs
+*.log
+
+# Cache
+.cache/
