@@ -8,12 +8,12 @@ This repository provides the basic structure for a C development project.
 
 ```
 compilersProject/
-├── bin
-├── include
+├── bin/
+├── include/
 ├── Makefile
-├── obj
+├── obj/
 ├── README.md
-└── src
+└── src/
     └── main.c
 
 ```
